@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace PizzariaIFSP
 {
     internal class Program
-    {
+    { 
         static int Menu()
         {
             Console.WriteLine("\nSAIR -------- 0");
